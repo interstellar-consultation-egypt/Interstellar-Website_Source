@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purrr on Dainanahan</title>
+    <link>/tags/purrr/</link>
+    <description>Recent content in Purrr on Dainanahan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/purrr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Journey to the Center of the DrugBank XML Database</title>
+      <link>/1/01/journey-to-the-center-of-the-drugbank-xml-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/journey-to-the-center-of-the-drugbank-xml-database/</guid>
+      <description>ObjectiveIn this tutorial, we shall take a journey together to explore the structure of the DrugBank database. We will observe how the drugs information is structured within DrugBank’s XML database and see how this information can be retrieved using R. Our main purpose here is parsing the database from its containing XML file. Let us begin!
+What is DrugBank?DrugBank is a comprehensive, freely accessible, online database containing information on drugs and their targets.</description>
+    </item>
+    
+  </channel>
+</rss>
