@@ -6,8 +6,8 @@ categories:
   - R
   - Shiny R
 tags:
-  - collabsable tree
-  - DataTable
+  - collapsibleTree
+  - DataTables
   - dbparser
   - DrugBank
 slug: drug-bank-browser
