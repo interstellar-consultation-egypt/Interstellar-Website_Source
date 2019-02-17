@@ -1,5 +1,5 @@
 ---
-title: Browsing Drugbank Database using Shiny R
+title: Browsing DrugBank Database using Shiny R
 author: '[Mohammed Ali](https://www.linkedin.com/in/mohammedali85/), [Ali Ezzat](https://www.linkedin.com/in/aliezzat1985/)'
 date: '2019-02-04'
 categories:
